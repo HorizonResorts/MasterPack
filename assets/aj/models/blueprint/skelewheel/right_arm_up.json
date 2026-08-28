@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"0": "aj:blueprint/skelewheel/2026_08_25_skeleton_base_24296840",
+		"1": "aj:blueprint/skelewheel/steve",
 		"particle": "minecraft:item/pufferfish"
 	},
 	"display": {
@@ -21,27 +21,27 @@
 			"faces": {
 				"north": {
 					"uv": [11, 5, 12, 6.5],
-					"texture": "#0"
+					"texture": "#1"
 				},
 				"east": {
 					"uv": [10, 5, 11, 6.5],
-					"texture": "#0"
+					"texture": "#1"
 				},
 				"south": {
 					"uv": [13, 5, 14, 6.5],
-					"texture": "#0"
+					"texture": "#1"
 				},
 				"west": {
 					"uv": [12, 5, 13, 6.5],
-					"texture": "#0"
+					"texture": "#1"
 				},
 				"up": {
 					"uv": [11, 4, 12, 5],
-					"texture": "#0"
+					"texture": "#1"
 				},
 				"down": {
 					"uv": [12, 4, 13, 5],
-					"texture": "#0"
+					"texture": "#1"
 				}
 			}
 		},
@@ -57,27 +57,27 @@
 			"faces": {
 				"north": {
 					"uv": [11, 9, 12, 10.5],
-					"texture": "#0"
+					"texture": "#1"
 				},
 				"east": {
 					"uv": [10, 9, 11, 10.5],
-					"texture": "#0"
+					"texture": "#1"
 				},
 				"south": {
 					"uv": [13, 9, 14, 10.5],
-					"texture": "#0"
+					"texture": "#1"
 				},
 				"west": {
 					"uv": [12, 9, 13, 10.5],
-					"texture": "#0"
+					"texture": "#1"
 				},
 				"up": {
 					"uv": [11, 8, 12, 9],
-					"texture": "#0"
+					"texture": "#1"
 				},
 				"down": {
 					"uv": [12, 8, 13, 9],
-					"texture": "#0"
+					"texture": "#1"
 				}
 			}
 		}
