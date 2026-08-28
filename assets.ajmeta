@@ -28,6 +28,37 @@
 				"assets/aj/models/blueprint/my_blueprint/right_leg_up.json",
 				"assets/aj/textures/blueprint/my_blueprint/texture.png"
 			]
+		},
+		"aj:skelewheel": {
+			"coreFiles": ["assets/minecraft/atlases/blocks.json", "pack.mcmeta"],
+			"versionedFiles": [
+				"assets/aj/items/blueprint/skelewheel/body_down.json",
+				"assets/aj/items/blueprint/skelewheel/body_up.json",
+				"assets/aj/items/blueprint/skelewheel/head.json",
+				"assets/aj/items/blueprint/skelewheel/left_arm_down.json",
+				"assets/aj/items/blueprint/skelewheel/left_arm_up.json",
+				"assets/aj/items/blueprint/skelewheel/left_leg_down.json",
+				"assets/aj/items/blueprint/skelewheel/left_leg_up.json",
+				"assets/aj/items/blueprint/skelewheel/props.json",
+				"assets/aj/items/blueprint/skelewheel/right_arm_down.json",
+				"assets/aj/items/blueprint/skelewheel/right_arm_up.json",
+				"assets/aj/items/blueprint/skelewheel/right_leg_down.json",
+				"assets/aj/items/blueprint/skelewheel/right_leg_up.json",
+				"assets/aj/models/blueprint/skelewheel/body_down.json",
+				"assets/aj/models/blueprint/skelewheel/body_up.json",
+				"assets/aj/models/blueprint/skelewheel/head.json",
+				"assets/aj/models/blueprint/skelewheel/left_arm_down.json",
+				"assets/aj/models/blueprint/skelewheel/left_arm_up.json",
+				"assets/aj/models/blueprint/skelewheel/left_leg_down.json",
+				"assets/aj/models/blueprint/skelewheel/left_leg_up.json",
+				"assets/aj/models/blueprint/skelewheel/props.json",
+				"assets/aj/models/blueprint/skelewheel/right_arm_down.json",
+				"assets/aj/models/blueprint/skelewheel/right_arm_up.json",
+				"assets/aj/models/blueprint/skelewheel/right_leg_down.json",
+				"assets/aj/models/blueprint/skelewheel/right_leg_up.json",
+				"assets/aj/textures/blueprint/skelewheel/steve.png",
+				"assets/aj/textures/blueprint/skelewheel/wheel.png"
+			]
 		}
 	}
 }
