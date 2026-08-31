@@ -29,6 +29,22 @@
 				"assets/aj/textures/blueprint/my_blueprint/texture.png"
 			]
 		},
+		"aj:potccrab": {
+			"coreFiles": ["assets/minecraft/atlases/blocks.json", "pack.mcmeta"],
+			"versionedFiles": [
+				"assets/aj/items/blueprint/potccrab/crab.json",
+				"assets/aj/items/blueprint/potccrab/leftclaw.json",
+				"assets/aj/items/blueprint/potccrab/lefteye.json",
+				"assets/aj/items/blueprint/potccrab/rightclaw.json",
+				"assets/aj/items/blueprint/potccrab/righteye.json",
+				"assets/aj/models/blueprint/potccrab/crab.json",
+				"assets/aj/models/blueprint/potccrab/leftclaw.json",
+				"assets/aj/models/blueprint/potccrab/lefteye.json",
+				"assets/aj/models/blueprint/potccrab/rightclaw.json",
+				"assets/aj/models/blueprint/potccrab/righteye.json",
+				"assets/aj/textures/blueprint/potccrab/potccrab.png"
+			]
+		},
 		"aj:skelewheel": {
 			"coreFiles": ["assets/minecraft/atlases/blocks.json", "pack.mcmeta"],
 			"versionedFiles": [
