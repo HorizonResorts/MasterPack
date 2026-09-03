@@ -1,6 +1,40 @@
 {
 	"formatVersion": "1.0.0",
 	"rigs": {
+		"aj:barbossa": {
+			"coreFiles": ["assets/minecraft/atlases/blocks.json", "pack.mcmeta"],
+			"versionedFiles": [
+				"assets/aj/items/blueprint/barbossa/body_down.json",
+				"assets/aj/items/blueprint/barbossa/body_up.json",
+				"assets/aj/items/blueprint/barbossa/hats.json",
+				"assets/aj/items/blueprint/barbossa/head.json",
+				"assets/aj/items/blueprint/barbossa/left_arm_down.json",
+				"assets/aj/items/blueprint/barbossa/left_arm_up.json",
+				"assets/aj/items/blueprint/barbossa/left_leg_down.json",
+				"assets/aj/items/blueprint/barbossa/left_leg_up.json",
+				"assets/aj/items/blueprint/barbossa/props.json",
+				"assets/aj/items/blueprint/barbossa/right_arm_down.json",
+				"assets/aj/items/blueprint/barbossa/right_arm_up.json",
+				"assets/aj/items/blueprint/barbossa/right_leg_down.json",
+				"assets/aj/items/blueprint/barbossa/right_leg_up.json",
+				"assets/aj/models/blueprint/barbossa/body_down.json",
+				"assets/aj/models/blueprint/barbossa/body_up.json",
+				"assets/aj/models/blueprint/barbossa/hats.json",
+				"assets/aj/models/blueprint/barbossa/head.json",
+				"assets/aj/models/blueprint/barbossa/left_arm_down.json",
+				"assets/aj/models/blueprint/barbossa/left_arm_up.json",
+				"assets/aj/models/blueprint/barbossa/left_leg_down.json",
+				"assets/aj/models/blueprint/barbossa/left_leg_up.json",
+				"assets/aj/models/blueprint/barbossa/props.json",
+				"assets/aj/models/blueprint/barbossa/right_arm_down.json",
+				"assets/aj/models/blueprint/barbossa/right_arm_up.json",
+				"assets/aj/models/blueprint/barbossa/right_leg_down.json",
+				"assets/aj/models/blueprint/barbossa/right_leg_up.json",
+				"assets/aj/textures/blueprint/barbossa/barbossa_1496582934.png",
+				"assets/aj/textures/blueprint/barbossa/hat.png",
+				"assets/aj/textures/blueprint/barbossa/sword.png"
+			]
+		},
 		"aj:my_blueprint": {
 			"coreFiles": ["assets/minecraft/atlases/blocks.json", "pack.mcmeta"],
 			"versionedFiles": [
